@@ -1,0 +1,12 @@
+C:\Users\Balla Botond\source\repos\pass\pass\bin\Debug\pass.exe.config
+C:\Users\Balla Botond\source\repos\pass\pass\bin\Debug\pass.exe
+C:\Users\Balla Botond\source\repos\pass\pass\bin\Debug\pass.pdb
+C:\Users\Balla Botond\source\repos\pass\pass\obj\Debug\pass.csprojAssemblyReference.cache
+C:\Users\Balla Botond\source\repos\pass\pass\obj\Debug\pass.Form1.resources
+C:\Users\Balla Botond\source\repos\pass\pass\obj\Debug\pass.Properties.Resources.resources
+C:\Users\Balla Botond\source\repos\pass\pass\obj\Debug\pass.csproj.GenerateResource.cache
+C:\Users\Balla Botond\source\repos\pass\pass\obj\Debug\pass.exe
+C:\Users\Balla Botond\source\repos\pass\pass\obj\Debug\pass.pdb
+C:\Users\Balla Botond\source\repos\pass\pass\obj\Debug\pass.Main.resources
+C:\Users\Balla Botond\source\repos\pass\pass\obj\Debug\pass.bizt.resources
+C:\Users\Balla Botond\source\repos\pass\pass\obj\Debug\pass.err.resources
